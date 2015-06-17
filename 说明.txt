@@ -1,0 +1,2 @@
+create
+跟着孔浩的springmvc视频教程写的 整合hibernate的springmvc_user的例子，基本功能实现，还需要认真学习
